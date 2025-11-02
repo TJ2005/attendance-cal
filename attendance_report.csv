@@ -1,0 +1,350 @@
+sr_no,course,date,start_time,end_time,attendance,subject_cleaned
+1,Visual AnalyticsP1 - BT Cyber B2,"Jul 14, 2025",2:00:01 PM,3:00:00 PM,A,Visual Analytics
+2,Visual AnalyticsP1 - BT Cyber B2,"Jul 14, 2025",3:00:01 PM,4:00:00 PM,A,Visual Analytics
+3,Cybersecurity FundamentalsP1-BT Cyber B2,"Jul 15, 2025",10:00:01 AM,11:00:00 AM,P,
+4,Cybersecurity FundamentalsP1-BT Cyber B2,"Jul 15, 2025",11:00:01 AM,12:00:00 PM,P,
+5,AI and ML for CybersecurityT1 - BT Cyber,"Jul 15, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+6,Cybersecurity FundamentalsT1 - BT Cyber,"Jul 15, 2025",3:00:01 PM,4:00:00 PM,P,
+7,Network SecurityT1 - BT Cyber,"Jul 16, 2025",2:00:01 PM,3:00:00 PM,A,Network Security
+8,Software EngineeringT1 BT Cyber,"Jul 17, 2025",11:00:01 AM,12:00:00 PM,P,Software Engineering
+9,AI and ML for CybersecurityT1 - BT Cyber,"Jul 17, 2025",12:00:01 PM,1:00:00 PM,P,AI and ML for Cybersecurity
+10,AI and ML for CybersecurityP1 - BT Cyber,"Jul 17, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+11,AI and ML for CybersecurityP1 - BT Cyber,"Jul 17, 2025",3:00:01 PM,4:00:00 PM,P,AI and ML for Cybersecurity
+12,Introd. to Forensic ScienceT1OE2 BTMT5,"Jul 17, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+13,Introd. to Forensic ScienceT1OE2 BTMT5,"Jul 17, 2025",5:00:01 PM,6:00:00 PM,P,Introduction to Forensic Science
+14,Network SecurityT1 - BT Cyber,"Jul 18, 2025",11:00:01 AM,12:00:00 PM,P,Network Security
+15,Cybersecurity FundamentalsT1 - BT Cyber,"Jul 18, 2025",12:00:01 PM,1:00:00 PM,A,
+16,Network SecurityP1 - BT Cyber B2,"Jul 18, 2025",2:00:01 PM,3:00:00 PM,A,Network Security
+17,Network SecurityP1 - BT Cyber B2,"Jul 18, 2025",3:00:01 PM,4:00:00 PM,A,Network Security
+18,Introd. to Forensic ScienceT1OE2 BTMT5,"Jul 18, 2025",4:00:01 PM,5:00:00 PM,A,Introduction to Forensic Science
+19,Visual AnalyticsP1 - BT Cyber B2,"Jul 21, 2025",2:00:01 PM,3:00:00 PM,A,Visual Analytics
+20,Visual AnalyticsP1 - BT Cyber B2,"Jul 21, 2025",3:00:01 PM,4:00:00 PM,A,Visual Analytics
+21,Cybersecurity FundamentalsP1-BT Cyber B2,"Jul 22, 2025",10:00:01 AM,11:00:00 AM,P,
+22,Cybersecurity FundamentalsP1-BT Cyber B2,"Jul 22, 2025",11:00:01 AM,12:00:00 PM,P,
+23,Software EngineeringT1 BT Cyber,"Jul 22, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+24,AI and ML for CybersecurityT1 - BT Cyber,"Jul 22, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+25,Cybersecurity FundamentalsT1 - BT Cyber,"Jul 22, 2025",3:00:01 PM,4:00:00 PM,P,
+26,Software EngineeringP1 BT Cyber B2,"Jul 23, 2025",12:00:01 PM,1:00:00 PM,A,Software Engineering
+27,Software EngineeringP1 BT Cyber B2,"Jul 23, 2025",1:00:01 PM,2:00:00 PM,A,Software Engineering
+28,Network SecurityT1 - BT Cyber,"Jul 23, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+29,Drone TechnologyP1 - OE1 B2,"Jul 23, 2025",4:00:01 PM,5:00:00 PM,P,Drone Technology
+30,Drone TechnologyP1 - OE1 B2,"Jul 23, 2025",5:00:01 PM,6:00:00 PM,P,Drone Technology
+31,AI and ML for CybersecurityT1 - BT Cyber,"Jul 24, 2025",12:00:01 PM,1:00:00 PM,P,AI and ML for Cybersecurity
+32,AI and ML for CybersecurityP1 - BT Cyber,"Jul 24, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+33,AI and ML for CybersecurityP1 - BT Cyber,"Jul 24, 2025",3:00:01 PM,4:00:00 PM,P,AI and ML for Cybersecurity
+34,Introd. to Forensic ScienceT1OE2 BTMT5,"Jul 24, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+35,Introd. to Forensic ScienceT1OE2 BTMT5,"Jul 24, 2025",5:00:01 PM,6:00:00 PM,P,Introduction to Forensic Science
+36,Network SecurityT1 - BT Cyber,"Jul 25, 2025",11:00:01 AM,12:00:00 PM,P,Network Security
+37,Cybersecurity FundamentalsT1 - BT Cyber,"Jul 25, 2025",12:00:01 PM,1:00:00 PM,P,
+38,Network SecurityP1 - BT Cyber B2,"Jul 25, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+39,Network SecurityP1 - BT Cyber B2,"Jul 25, 2025",3:00:01 PM,4:00:00 PM,P,Network Security
+40,Introd. to Forensic ScienceT1OE2 BTMT5,"Jul 25, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+41,Visual AnalyticsP1 - BT Cyber B2,"Jul 28, 2025",2:00:01 PM,3:00:00 PM,A,Visual Analytics
+42,Visual AnalyticsP1 - BT Cyber B2,"Jul 28, 2025",3:00:01 PM,4:00:00 PM,A,Visual Analytics
+43,Drone TechnologyT1-OE1-BTech+MBA,"Jul 28, 2025",4:00:01 PM,5:00:00 PM,A,Drone Technology
+44,Drone TechnologyT1-OE1-BTech+MBA,"Jul 28, 2025",5:00:01 PM,6:00:00 PM,A,Drone Technology
+45,Cybersecurity FundamentalsP1-BT Cyber B2,"Jul 29, 2025",10:00:01 AM,11:00:00 AM,A,
+46,Cybersecurity FundamentalsP1-BT Cyber B2,"Jul 29, 2025",11:00:01 AM,12:00:00 PM,A,
+47,Software EngineeringT1 BT Cyber,"Jul 29, 2025",12:00:01 PM,1:00:00 PM,A,Software Engineering
+48,AI and ML for CybersecurityT1 - BT Cyber,"Jul 29, 2025",2:00:01 PM,3:00:00 PM,A,AI and ML for Cybersecurity
+49,Cybersecurity FundamentalsT1 - BT Cyber,"Jul 29, 2025",3:00:01 PM,4:00:00 PM,A,
+50,Software EngineeringP1 BT Cyber B2,"Jul 30, 2025",12:00:01 PM,1:00:00 PM,A,Software Engineering
+51,Software EngineeringP1 BT Cyber B2,"Jul 30, 2025",1:00:01 PM,2:00:00 PM,A,Software Engineering
+52,Network SecurityT1 - BT Cyber,"Jul 30, 2025",2:00:01 PM,3:00:00 PM,A,Network Security
+53,Drone TechnologyP1 - OE1 B2,"Jul 30, 2025",4:00:01 PM,5:00:00 PM,A,Drone Technology
+54,Drone TechnologyP1 - OE1 B2,"Jul 30, 2025",5:00:01 PM,6:00:00 PM,A,Drone Technology
+55,AI and ML for CybersecurityT1 - BT Cyber,"Jul 31, 2025",12:00:01 PM,1:00:00 PM,A,AI and ML for Cybersecurity
+56,AI and ML for CybersecurityP1 - BT Cyber,"Jul 31, 2025",2:00:01 PM,3:00:00 PM,A,AI and ML for Cybersecurity
+57,AI and ML for CybersecurityP1 - BT Cyber,"Jul 31, 2025",3:00:01 PM,4:00:00 PM,A,AI and ML for Cybersecurity
+58,Introd. to Forensic ScienceT1OE2 BTMT5,"Jul 31, 2025",4:00:01 PM,5:00:00 PM,A,Introduction to Forensic Science
+59,Introd. to Forensic ScienceT1OE2 BTMT5,"Jul 31, 2025",5:00:01 PM,6:00:00 PM,A,Introduction to Forensic Science
+60,Network SecurityT1 - BT Cyber,"Aug 1, 2025",11:00:01 AM,12:00:00 PM,A,Network Security
+61,Cybersecurity FundamentalsT1 - BT Cyber,"Aug 1, 2025",12:00:01 PM,1:00:00 PM,A,
+62,Network SecurityP1 - BT Cyber B2,"Aug 1, 2025",2:00:01 PM,3:00:00 PM,A,Network Security
+63,Network SecurityP1 - BT Cyber B2,"Aug 1, 2025",3:00:01 PM,4:00:00 PM,A,Network Security
+64,Introd. to Forensic ScienceT1OE2 BTMT5,"Aug 1, 2025",4:00:01 PM,5:00:00 PM,A,Introduction to Forensic Science
+65,Visual AnalyticsP1 - BT Cyber B2,"Aug 4, 2025",2:00:01 PM,3:00:00 PM,A,Visual Analytics
+66,Visual AnalyticsP1 - BT Cyber B2,"Aug 4, 2025",3:00:01 PM,4:00:00 PM,A,Visual Analytics
+67,Drone TechnologyT1-OE1-BTech+MBA,"Aug 4, 2025",4:00:01 PM,5:00:00 PM,A,Drone Technology
+68,Drone TechnologyT1-OE1-BTech+MBA,"Aug 4, 2025",5:00:01 PM,6:00:00 PM,A,Drone Technology
+69,Cybersecurity FundamentalsP1-BT Cyber B2,"Aug 5, 2025",10:00:01 AM,11:00:00 AM,P,
+70,Cybersecurity FundamentalsP1-BT Cyber B2,"Aug 5, 2025",11:00:01 AM,12:00:00 PM,P,
+71,Software EngineeringT1 BT Cyber,"Aug 5, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+72,AI and ML for CybersecurityT1 - BT Cyber,"Aug 5, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+73,Cybersecurity FundamentalsT1 - BT Cyber,"Aug 5, 2025",3:00:01 PM,4:00:00 PM,P,
+74,Network SecurityT1 - BT Cyber,"Aug 6, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+75,Drone TechnologyP1 - OE1 B2,"Aug 6, 2025",4:00:01 PM,5:00:00 PM,P,Drone Technology
+76,Drone TechnologyP1 - OE1 B2,"Aug 6, 2025",5:00:01 PM,6:00:00 PM,P,Drone Technology
+77,Software EngineeringT1 BT Cyber,"Aug 7, 2025",11:00:01 AM,12:00:00 PM,P,Software Engineering
+78,AI and ML for CybersecurityT1 - BT Cyber,"Aug 7, 2025",12:00:01 PM,1:00:00 PM,P,AI and ML for Cybersecurity
+79,AI and ML for CybersecurityP1 - BT Cyber,"Aug 7, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+80,AI and ML for CybersecurityP1 - BT Cyber,"Aug 7, 2025",3:00:01 PM,4:00:00 PM,P,AI and ML for Cybersecurity
+81,Introd. to Forensic ScienceT1OE2 BTMT5,"Aug 7, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+82,Introd. to Forensic ScienceT1OE2 BTMT5,"Aug 7, 2025",5:00:01 PM,6:00:00 PM,P,Introduction to Forensic Science
+83,Network SecurityT1 - BT Cyber,"Aug 8, 2025",11:00:01 AM,12:00:00 PM,A,Network Security
+84,Cybersecurity FundamentalsT1 - BT Cyber,"Aug 8, 2025",12:00:01 PM,1:00:00 PM,P,
+85,Network SecurityP1 - BT Cyber B2,"Aug 8, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+86,Network SecurityP1 - BT Cyber B2,"Aug 8, 2025",3:00:01 PM,4:00:00 PM,P,Network Security
+87,Introd. to Forensic ScienceT1OE2 BTMT5,"Aug 8, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+88,Visual AnalyticsP1 - BT Cyber B2,"Aug 11, 2025",2:00:01 PM,3:00:00 PM,P,Visual Analytics
+89,Visual AnalyticsP1 - BT Cyber B2,"Aug 11, 2025",3:00:01 PM,4:00:00 PM,P,Visual Analytics
+90,Drone TechnologyT1-OE1-BTech+MBA,"Aug 11, 2025",4:00:01 PM,5:00:00 PM,P,Drone Technology
+91,Drone TechnologyT1-OE1-BTech+MBA,"Aug 11, 2025",5:00:01 PM,6:00:00 PM,P,Drone Technology
+92,Cybersecurity FundamentalsP1-BT Cyber B2,"Aug 12, 2025",10:00:01 AM,11:00:00 AM,P,
+93,Cybersecurity FundamentalsP1-BT Cyber B2,"Aug 12, 2025",11:00:01 AM,12:00:00 PM,P,
+94,Software EngineeringT1 BT Cyber,"Aug 12, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+95,AI and ML for CybersecurityT1 - BT Cyber,"Aug 12, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+96,Cybersecurity FundamentalsT1 - BT Cyber,"Aug 12, 2025",3:00:01 PM,4:00:00 PM,P,
+97,Software EngineeringP1 BT Cyber B2,"Aug 13, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+98,Software EngineeringP1 BT Cyber B2,"Aug 13, 2025",1:00:01 PM,2:00:00 PM,P,Software Engineering
+99,Network SecurityT1 - BT Cyber,"Aug 13, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+100,Drone TechnologyP1 - OE1 B2,"Aug 13, 2025",4:00:01 PM,5:00:00 PM,A,Drone Technology
+101,Drone TechnologyP1 - OE1 B2,"Aug 13, 2025",5:00:01 PM,6:00:00 PM,A,Drone Technology
+102,Software EngineeringT1 BT Cyber,"Aug 14, 2025",11:00:01 AM,12:00:00 PM,P,Software Engineering
+103,AI and ML for CybersecurityT1 - BT Cyber,"Aug 14, 2025",12:00:01 PM,1:00:00 PM,P,AI and ML for Cybersecurity
+104,AI and ML for CybersecurityP1 - BT Cyber,"Aug 14, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+105,AI and ML for CybersecurityP1 - BT Cyber,"Aug 14, 2025",3:00:01 PM,4:00:00 PM,P,AI and ML for Cybersecurity
+106,Visual AnalyticsP1 - BT Cyber B2,"Aug 18, 2025",2:00:01 PM,3:00:00 PM,P,Visual Analytics
+107,Visual AnalyticsP1 - BT Cyber B2,"Aug 18, 2025",3:00:01 PM,4:00:00 PM,P,Visual Analytics
+108,AI and ML for CybersecurityT1 - BT Cyber,"Aug 21, 2025",12:00:01 PM,1:00:00 PM,P,AI and ML for Cybersecurity
+109,AI and ML for CybersecurityP1 - BT Cyber,"Aug 21, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+110,AI and ML for CybersecurityP1 - BT Cyber,"Aug 21, 2025",3:00:01 PM,4:00:00 PM,P,AI and ML for Cybersecurity
+111,Introd. to Forensic ScienceT1OE2 BTMT5,"Aug 21, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+112,Introd. to Forensic ScienceT1OE2 BTMT5,"Aug 21, 2025",5:00:01 PM,6:00:00 PM,P,Introduction to Forensic Science
+113,Network SecurityT1 - BT Cyber,"Aug 22, 2025",11:00:01 AM,12:00:00 PM,P,Network Security
+114,Cybersecurity FundamentalsT1 - BT Cyber,"Aug 22, 2025",12:00:01 PM,1:00:00 PM,P,
+115,Network SecurityP1 - BT Cyber B2,"Aug 22, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+116,Network SecurityP1 - BT Cyber B2,"Aug 22, 2025",3:00:01 PM,4:00:00 PM,P,Network Security
+117,Introd. to Forensic ScienceT1OE2 BTMT5,"Aug 22, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+118,Visual AnalyticsP1 - BT Cyber B2,"Aug 25, 2025",2:00:01 PM,3:00:00 PM,P,Visual Analytics
+119,Visual AnalyticsP1 - BT Cyber B2,"Aug 25, 2025",3:00:01 PM,4:00:00 PM,P,Visual Analytics
+120,Drone TechnologyT1-OE1-BTech+MBA,"Aug 25, 2025",4:00:01 PM,5:00:00 PM,P,Drone Technology
+121,Drone TechnologyT1-OE1-BTech+MBA,"Aug 25, 2025",5:00:01 PM,6:00:00 PM,P,Drone Technology
+122,Cybersecurity FundamentalsP1-BT Cyber B2,"Aug 26, 2025",10:00:01 AM,11:00:00 AM,P,
+123,Cybersecurity FundamentalsP1-BT Cyber B2,"Aug 26, 2025",11:00:01 AM,12:00:00 PM,P,
+124,Software EngineeringT1 BT Cyber,"Aug 26, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+125,AI and ML for CybersecurityT1 - BT Cyber,"Aug 26, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+126,Cybersecurity FundamentalsT1 - BT Cyber,"Aug 26, 2025",3:00:01 PM,4:00:00 PM,P,
+127,Software EngineeringT1 BT Cyber,"Aug 28, 2025",11:00:01 AM,12:00:00 PM,P,Software Engineering
+128,AI and ML for CybersecurityT1 - BT Cyber,"Aug 28, 2025",12:00:01 PM,1:00:00 PM,P,AI and ML for Cybersecurity
+129,AI and ML for CybersecurityP1 - BT Cyber,"Aug 28, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+130,AI and ML for CybersecurityP1 - BT Cyber,"Aug 28, 2025",3:00:01 PM,4:00:00 PM,P,AI and ML for Cybersecurity
+131,Introd. to Forensic ScienceT1OE2 BTMT5,"Aug 28, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+132,Introd. to Forensic ScienceT1OE2 BTMT5,"Aug 28, 2025",5:00:01 PM,6:00:00 PM,P,Introduction to Forensic Science
+133,Network SecurityT1 - BT Cyber,"Aug 29, 2025",11:00:01 AM,12:00:00 PM,P,Network Security
+134,Cybersecurity FundamentalsT1 - BT Cyber,"Aug 29, 2025",12:00:01 PM,1:00:00 PM,P,
+135,Network SecurityP1 - BT Cyber B2,"Aug 29, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+136,Network SecurityP1 - BT Cyber B2,"Aug 29, 2025",3:00:01 PM,4:00:00 PM,P,Network Security
+137,Introd. to Forensic ScienceT1OE2 BTMT5,"Aug 29, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+138,Network SecurityP1 - BT Cyber B2,"Aug 30, 2025",8:00:01 AM,9:00:00 AM,P,Network Security
+139,Network SecurityP1 - BT Cyber B2,"Aug 30, 2025",9:00:01 AM,10:00:00 AM,P,Network Security
+140,Network SecurityT1 - BT Cyber,"Aug 30, 2025",10:00:01 AM,11:00:00 AM,P,Network Security
+141,Software EngineeringT1 BT Cyber,"Aug 30, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+142,Software EngineeringT1 BT Cyber,"Aug 30, 2025",1:00:01 PM,2:00:00 PM,P,Software Engineering
+143,Software EngineeringP1 BT Cyber B2,"Aug 30, 2025",2:00:01 PM,3:00:00 PM,P,Software Engineering
+144,Software EngineeringP1 BT Cyber B2,"Aug 30, 2025",3:00:01 PM,4:00:00 PM,P,Software Engineering
+145,Visual AnalyticsP1 - BT Cyber B2,"Sep 1, 2025",2:00:01 PM,3:00:00 PM,P,Visual Analytics
+146,Visual AnalyticsP1 - BT Cyber B2,"Sep 1, 2025",3:00:01 PM,4:00:00 PM,P,Visual Analytics
+147,Drone TechnologyT1-OE1-BTech+MBA,"Sep 1, 2025",4:00:01 PM,5:00:00 PM,P,Drone Technology
+148,Drone TechnologyT1-OE1-BTech+MBA,"Sep 1, 2025",5:00:01 PM,6:00:00 PM,P,Drone Technology
+149,Cybersecurity FundamentalsP1-BT Cyber B2,"Sep 2, 2025",10:00:01 AM,11:00:00 AM,P,
+150,Cybersecurity FundamentalsP1-BT Cyber B2,"Sep 2, 2025",11:00:01 AM,12:00:00 PM,P,
+151,Software EngineeringT1 BT Cyber,"Sep 2, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+152,AI and ML for CybersecurityT1 - BT Cyber,"Sep 2, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+153,Cybersecurity FundamentalsT1 - BT Cyber,"Sep 2, 2025",3:00:01 PM,4:00:00 PM,P,
+154,Software EngineeringP1 BT Cyber B2,"Sep 3, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+155,Software EngineeringP1 BT Cyber B2,"Sep 3, 2025",1:00:01 PM,2:00:00 PM,P,Software Engineering
+156,Network SecurityT1 - BT Cyber,"Sep 3, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+157,Drone TechnologyP1 - OE1 B2,"Sep 3, 2025",4:00:01 PM,5:00:00 PM,P,Drone Technology
+158,Drone TechnologyP1 - OE1 B2,"Sep 3, 2025",5:00:01 PM,6:00:00 PM,P,Drone Technology
+159,Software EngineeringT1 BT Cyber,"Sep 4, 2025",11:00:01 AM,12:00:00 PM,P,Software Engineering
+160,AI and ML for CybersecurityT1 - BT Cyber,"Sep 4, 2025",12:00:01 PM,1:00:00 PM,P,AI and ML for Cybersecurity
+161,AI and ML for CybersecurityP1 - BT Cyber,"Sep 4, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+162,AI and ML for CybersecurityP1 - BT Cyber,"Sep 4, 2025",3:00:01 PM,4:00:00 PM,P,AI and ML for Cybersecurity
+163,Introd. to Forensic ScienceT1OE2 BTMT5,"Sep 4, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+164,Introd. to Forensic ScienceT1OE2 BTMT5,"Sep 4, 2025",5:00:01 PM,6:00:00 PM,P,Introduction to Forensic Science
+165,Network SecurityT1 - BT Cyber,"Sep 5, 2025",11:00:01 AM,12:00:00 PM,P,Network Security
+166,Cybersecurity FundamentalsT1 - BT Cyber,"Sep 5, 2025",12:00:01 PM,1:00:00 PM,P,
+167,Network SecurityP1 - BT Cyber B2,"Sep 5, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+168,Network SecurityP1 - BT Cyber B2,"Sep 5, 2025",3:00:01 PM,4:00:00 PM,P,Network Security
+169,Introd. to Forensic ScienceT1OE2 BTMT5,"Sep 5, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+170,Visual AnalyticsP1 - BT Cyber B2,"Sep 8, 2025",2:00:01 PM,3:00:00 PM,P,Visual Analytics
+171,Visual AnalyticsP1 - BT Cyber B2,"Sep 8, 2025",3:00:01 PM,4:00:00 PM,P,Visual Analytics
+172,Drone TechnologyT1-OE1-BTech+MBA,"Sep 8, 2025",4:00:01 PM,5:00:00 PM,P,Drone Technology
+173,Drone TechnologyT1-OE1-BTech+MBA,"Sep 8, 2025",5:00:01 PM,6:00:00 PM,P,Drone Technology
+174,Cybersecurity FundamentalsP1-BT Cyber B2,"Sep 9, 2025",10:00:01 AM,11:00:00 AM,P,
+175,Cybersecurity FundamentalsP1-BT Cyber B2,"Sep 9, 2025",11:00:01 AM,12:00:00 PM,P,
+176,Software EngineeringT1 BT Cyber,"Sep 9, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+177,AI and ML for CybersecurityT1 - BT Cyber,"Sep 9, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+178,Cybersecurity FundamentalsT1 - BT Cyber,"Sep 9, 2025",3:00:01 PM,4:00:00 PM,P,
+179,Software EngineeringP1 BT Cyber B2,"Sep 10, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+180,Software EngineeringP1 BT Cyber B2,"Sep 10, 2025",1:00:01 PM,2:00:00 PM,P,Software Engineering
+181,Network SecurityT1 - BT Cyber,"Sep 10, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+182,Drone TechnologyP1 - OE1 B2,"Sep 10, 2025",4:00:01 PM,5:00:00 PM,P,Drone Technology
+183,Drone TechnologyP1 - OE1 B2,"Sep 10, 2025",5:00:01 PM,6:00:00 PM,P,Drone Technology
+184,AI and ML for CybersecurityT1 - BT Cyber,"Sep 11, 2025",12:00:01 PM,1:00:00 PM,P,AI and ML for Cybersecurity
+185,AI and ML for CybersecurityP1 - BT Cyber,"Sep 11, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+186,AI and ML for CybersecurityP1 - BT Cyber,"Sep 11, 2025",3:00:01 PM,4:00:00 PM,P,AI and ML for Cybersecurity
+187,Introd. to Forensic ScienceT1OE2 BTMT5,"Sep 11, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+188,Introd. to Forensic ScienceT1OE2 BTMT5,"Sep 11, 2025",5:00:01 PM,6:00:00 PM,P,Introduction to Forensic Science
+189,Network SecurityT1 - BT Cyber,"Sep 12, 2025",11:00:01 AM,12:00:00 PM,P,Network Security
+190,Cybersecurity FundamentalsT1 - BT Cyber,"Sep 12, 2025",12:00:01 PM,1:00:00 PM,P,
+191,Network SecurityP1 - BT Cyber B2,"Sep 12, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+192,Network SecurityP1 - BT Cyber B2,"Sep 12, 2025",3:00:01 PM,4:00:00 PM,P,Network Security
+193,Introd. to Forensic ScienceT1OE2 BTMT5,"Sep 12, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+194,Visual AnalyticsP1 - BT Cyber B2,"Sep 15, 2025",2:00:01 PM,3:00:00 PM,P,Visual Analytics
+195,Visual AnalyticsP1 - BT Cyber B2,"Sep 15, 2025",3:00:01 PM,4:00:00 PM,P,Visual Analytics
+196,Drone TechnologyT1-OE1-BTech+MBA,"Sep 15, 2025",4:00:01 PM,5:00:00 PM,P,Drone Technology
+197,Drone TechnologyT1-OE1-BTech+MBA,"Sep 15, 2025",5:00:01 PM,6:00:00 PM,P,Drone Technology
+198,Cybersecurity FundamentalsP1-BT Cyber B2,"Sep 16, 2025",10:00:01 AM,11:00:00 AM,P,
+199,Cybersecurity FundamentalsP1-BT Cyber B2,"Sep 16, 2025",11:00:01 AM,12:00:00 PM,P,
+200,Software EngineeringT1 BT Cyber,"Sep 16, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+201,AI and ML for CybersecurityT1 - BT Cyber,"Sep 16, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+202,Cybersecurity FundamentalsT1 - BT Cyber,"Sep 16, 2025",3:00:01 PM,4:00:00 PM,P,
+203,Software EngineeringP1 BT Cyber B2,"Sep 17, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+204,Software EngineeringP1 BT Cyber B2,"Sep 17, 2025",1:00:01 PM,2:00:00 PM,P,Software Engineering
+205,Network SecurityT1 - BT Cyber,"Sep 17, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+206,Drone TechnologyP1 - OE1 B2,"Sep 17, 2025",4:00:01 PM,5:00:00 PM,P,Drone Technology
+207,Drone TechnologyP1 - OE1 B2,"Sep 17, 2025",5:00:01 PM,6:00:00 PM,P,Drone Technology
+208,Software EngineeringT1 BT Cyber,"Sep 18, 2025",11:00:01 AM,12:00:00 PM,P,Software Engineering
+209,AI and ML for CybersecurityT1 - BT Cyber,"Sep 18, 2025",12:00:01 PM,1:00:00 PM,P,AI and ML for Cybersecurity
+210,AI and ML for CybersecurityP1 - BT Cyber,"Sep 18, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+211,AI and ML for CybersecurityP1 - BT Cyber,"Sep 18, 2025",3:00:01 PM,4:00:00 PM,P,AI and ML for Cybersecurity
+212,Introd. to Forensic ScienceT1OE2 BTMT5,"Sep 18, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+213,Introd. to Forensic ScienceT1OE2 BTMT5,"Sep 18, 2025",5:00:01 PM,6:00:00 PM,P,Introduction to Forensic Science
+214,Introd. to Forensic ScienceT1OE2 BTMT5,"Sep 19, 2025",8:00:01 AM,9:00:00 AM,P,Introduction to Forensic Science
+215,Network SecurityT1 - BT Cyber,"Sep 19, 2025",11:00:01 AM,12:00:00 PM,P,Network Security
+216,Cybersecurity FundamentalsT1 - BT Cyber,"Sep 19, 2025",12:00:01 PM,1:00:00 PM,P,
+217,Network SecurityP1 - BT Cyber B2,"Sep 19, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+218,Network SecurityP1 - BT Cyber B2,"Sep 19, 2025",3:00:01 PM,4:00:00 PM,P,Network Security
+219,Introd. to Forensic ScienceT1OE2 BTMT5,"Sep 19, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+220,Drone TechnologyT1-OE1-BTech+MBA,"Sep 22, 2025",4:00:01 PM,5:00:00 PM,P,Drone Technology
+221,Drone TechnologyT1-OE1-BTech+MBA,"Sep 22, 2025",5:00:01 PM,6:00:00 PM,P,Drone Technology
+222,Drone TechnologyT1-OE1-BTech+MBA,"Sep 22, 2025",6:00:01 PM,7:00:00 PM,P,Drone Technology
+223,Cybersecurity FundamentalsP1-BT Cyber B2,"Sep 23, 2025",10:00:01 AM,11:00:00 AM,P,
+224,Cybersecurity FundamentalsP1-BT Cyber B2,"Sep 23, 2025",11:00:01 AM,12:00:00 PM,P,
+225,Software EngineeringT1 BT Cyber,"Sep 23, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+226,AI and ML for CybersecurityT1 - BT Cyber,"Sep 23, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+227,Cybersecurity FundamentalsT1 - BT Cyber,"Sep 23, 2025",3:00:01 PM,4:00:00 PM,P,
+228,Software EngineeringP1 BT Cyber B2,"Sep 24, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+229,Software EngineeringP1 BT Cyber B2,"Sep 24, 2025",1:00:01 PM,2:00:00 PM,P,Software Engineering
+230,Network SecurityT1 - BT Cyber,"Sep 24, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+231,Drone TechnologyP1 - OE1 B2,"Sep 24, 2025",4:00:01 PM,5:00:00 PM,P,Drone Technology
+232,Drone TechnologyP1 - OE1 B2,"Sep 24, 2025",5:00:01 PM,6:00:00 PM,P,Drone Technology
+233,Drone TechnologyP1 - OE1 B2,"Sep 24, 2025",6:00:01 PM,7:00:00 PM,P,Drone Technology
+234,Software EngineeringT1 BT Cyber,"Sep 25, 2025",11:00:01 AM,12:00:00 PM,P,Software Engineering
+235,Introd. to Forensic ScienceT1OE2 BTMT5,"Sep 25, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+236,Introd. to Forensic ScienceT1OE2 BTMT5,"Sep 25, 2025",5:00:01 PM,6:00:00 PM,P,Introduction to Forensic Science
+237,Introd. to Forensic ScienceT1OE2 BTMT5,"Sep 26, 2025",8:00:01 AM,9:00:00 AM,P,Introduction to Forensic Science
+238,Network SecurityT1 - BT Cyber,"Sep 26, 2025",11:00:01 AM,12:00:00 PM,P,Network Security
+239,Cybersecurity FundamentalsT1 - BT Cyber,"Sep 26, 2025",12:00:01 PM,1:00:00 PM,P,
+240,Network SecurityP1 - BT Cyber B2,"Sep 26, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+241,Network SecurityP1 - BT Cyber B2,"Sep 26, 2025",3:00:01 PM,4:00:00 PM,P,Network Security
+242,Introd. to Forensic ScienceT1OE2 BTMT5,"Sep 26, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+243,AI and ML for CybersecurityP1 - BT Cyber,"Sep 29, 2025",11:00:01 AM,12:00:00 PM,A,AI and ML for Cybersecurity
+244,AI and ML for CybersecurityP1 - BT Cyber,"Sep 29, 2025",12:00:01 PM,1:00:00 PM,A,AI and ML for Cybersecurity
+245,Visual AnalyticsP1 - BT Cyber B2,"Sep 29, 2025",2:00:01 PM,3:00:00 PM,P,Visual Analytics
+246,Visual AnalyticsP1 - BT Cyber B2,"Sep 29, 2025",3:00:01 PM,4:00:00 PM,P,Visual Analytics
+247,Drone TechnologyT1-OE1-BTech+MBA,"Sep 29, 2025",4:00:01 PM,5:00:00 PM,P,Drone Technology
+248,Drone TechnologyT1-OE1-BTech+MBA,"Sep 29, 2025",5:00:01 PM,6:00:00 PM,P,Drone Technology
+249,Drone TechnologyT1-OE1-BTech+MBA,"Sep 29, 2025",6:00:01 PM,7:00:00 PM,P,Drone Technology
+250,Cybersecurity FundamentalsP1-BT Cyber B2,"Sep 30, 2025",10:00:01 AM,11:00:00 AM,P,
+251,Cybersecurity FundamentalsP1-BT Cyber B2,"Sep 30, 2025",11:00:01 AM,12:00:00 PM,P,
+252,Software EngineeringT1 BT Cyber,"Sep 30, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+253,AI and ML for CybersecurityT1 - BT Cyber,"Sep 30, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+254,Cybersecurity FundamentalsT1 - BT Cyber,"Sep 30, 2025",3:00:01 PM,4:00:00 PM,P,
+255,Software EngineeringP1 BT Cyber B2,"Oct 1, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+256,Software EngineeringP1 BT Cyber B2,"Oct 1, 2025",1:00:01 PM,2:00:00 PM,P,Software Engineering
+257,Network SecurityT1 - BT Cyber,"Oct 1, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+258,Drone TechnologyP1 - OE1 B2,"Oct 1, 2025",4:00:01 PM,5:00:00 PM,P,Drone Technology
+259,Drone TechnologyP1 - OE1 B2,"Oct 1, 2025",5:00:01 PM,6:00:00 PM,P,Drone Technology
+260,Drone TechnologyP1 - OE1 B2,"Oct 1, 2025",6:00:01 PM,7:00:00 PM,P,Drone Technology
+261,Software EngineeringP1 BT Cyber B2,"Oct 3, 2025",8:00:01 AM,9:00:00 AM,P,Software Engineering
+262,Software EngineeringP1 BT Cyber B2,"Oct 3, 2025",9:00:01 AM,10:00:00 AM,P,Software Engineering
+263,Network SecurityT1 - BT Cyber,"Oct 3, 2025",11:00:01 AM,12:00:00 PM,P,Network Security
+264,Cybersecurity FundamentalsT1 - BT Cyber,"Oct 3, 2025",12:00:01 PM,1:00:00 PM,P,
+265,Network SecurityP1 - BT Cyber B2,"Oct 3, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+266,Network SecurityP1 - BT Cyber B2,"Oct 3, 2025",3:00:01 PM,4:00:00 PM,P,Network Security
+267,Introd. to Forensic ScienceT1OE2 BTMT5,"Oct 3, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+268,Visual AnalyticsP1 - BT Cyber B2,"Oct 6, 2025",10:00:01 AM,11:00:00 AM,P,Visual Analytics
+269,Visual AnalyticsP1 - BT Cyber B2,"Oct 6, 2025",11:00:01 AM,12:00:00 PM,P,Visual Analytics
+270,Visual AnalyticsP1 - BT Cyber B2,"Oct 6, 2025",2:00:01 PM,3:00:00 PM,P,Visual Analytics
+271,Visual AnalyticsP1 - BT Cyber B2,"Oct 6, 2025",3:00:01 PM,4:00:00 PM,P,Visual Analytics
+272,Drone TechnologyT1-OE1-BTech+MBA,"Oct 6, 2025",4:00:01 PM,5:00:00 PM,P,Drone Technology
+273,Drone TechnologyT1-OE1-BTech+MBA,"Oct 6, 2025",5:00:01 PM,6:00:00 PM,P,Drone Technology
+274,Cybersecurity FundamentalsP1-BT Cyber B2,"Oct 7, 2025",10:00:01 AM,11:00:00 AM,P,
+275,Cybersecurity FundamentalsP1-BT Cyber B2,"Oct 7, 2025",11:00:01 AM,12:00:00 PM,P,
+276,Software EngineeringT1 BT Cyber,"Oct 7, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+277,AI and ML for CybersecurityT1 - BT Cyber,"Oct 7, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+278,Cybersecurity FundamentalsT1 - BT Cyber,"Oct 7, 2025",3:00:01 PM,4:00:00 PM,P,
+279,Software EngineeringP1 BT Cyber B2,"Oct 8, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+280,Software EngineeringP1 BT Cyber B2,"Oct 8, 2025",1:00:01 PM,2:00:00 PM,P,Software Engineering
+281,Network SecurityT1 - BT Cyber,"Oct 8, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+282,Drone TechnologyP1 - OE1 B2,"Oct 8, 2025",4:00:01 PM,5:00:00 PM,P,Drone Technology
+283,Drone TechnologyP1 - OE1 B2,"Oct 8, 2025",5:00:01 PM,6:00:00 PM,P,Drone Technology
+284,AI and ML for CybersecurityT1 - BT Cyber,"Oct 9, 2025",12:00:01 PM,1:00:00 PM,P,AI and ML for Cybersecurity
+285,AI and ML for CybersecurityP1 - BT Cyber,"Oct 9, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+286,AI and ML for CybersecurityP1 - BT Cyber,"Oct 9, 2025",3:00:01 PM,4:00:00 PM,P,AI and ML for Cybersecurity
+287,Introd. to Forensic ScienceT1OE2 BTMT5,"Oct 9, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+288,Introd. to Forensic ScienceT1OE2 BTMT5,"Oct 9, 2025",5:00:01 PM,6:00:00 PM,P,Introduction to Forensic Science
+289,Network SecurityT1 - BT Cyber,"Oct 10, 2025",11:00:01 AM,12:00:00 PM,P,Network Security
+290,Cybersecurity FundamentalsT1 - BT Cyber,"Oct 10, 2025",12:00:01 PM,1:00:00 PM,P,
+291,Network SecurityP1 - BT Cyber B2,"Oct 10, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+292,Network SecurityP1 - BT Cyber B2,"Oct 10, 2025",3:00:01 PM,4:00:00 PM,P,Network Security
+293,Introd. to Forensic ScienceT1OE2 BTMT5,"Oct 10, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+294,Visual AnalyticsP1 - BT Cyber B2,"Oct 13, 2025",2:00:01 PM,3:00:00 PM,P,Visual Analytics
+295,Visual AnalyticsP1 - BT Cyber B2,"Oct 13, 2025",3:00:01 PM,4:00:00 PM,P,Visual Analytics
+296,Drone TechnologyT1-OE1-BTech+MBA,"Oct 13, 2025",4:00:01 PM,5:00:00 PM,A,Drone Technology
+297,Drone TechnologyT1-OE1-BTech+MBA,"Oct 13, 2025",5:00:01 PM,6:00:00 PM,P,Drone Technology
+298,Drone TechnologyT1-OE1-BTech+MBA,"Oct 13, 2025",6:00:01 PM,7:00:00 PM,P,Drone Technology
+299,Cybersecurity FundamentalsP1-BT Cyber B2,"Oct 14, 2025",10:00:01 AM,11:00:00 AM,P,
+300,Cybersecurity FundamentalsP1-BT Cyber B2,"Oct 14, 2025",11:00:01 AM,12:00:00 PM,P,
+301,Software EngineeringT1 BT Cyber,"Oct 14, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+302,AI and ML for CybersecurityT1 - BT Cyber,"Oct 14, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+303,Cybersecurity FundamentalsT1 - BT Cyber,"Oct 14, 2025",3:00:01 PM,4:00:00 PM,P,
+304,Software EngineeringP1 BT Cyber B2,"Oct 15, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+305,Software EngineeringP1 BT Cyber B2,"Oct 15, 2025",1:00:01 PM,2:00:00 PM,P,Software Engineering
+306,Network SecurityT1 - BT Cyber,"Oct 15, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+307,Drone TechnologyP1 - OE1 B2,"Oct 15, 2025",4:00:01 PM,5:00:00 PM,P,Drone Technology
+308,Drone TechnologyP1 - OE1 B2,"Oct 15, 2025",5:00:01 PM,6:00:00 PM,P,Drone Technology
+309,Drone TechnologyP1 - OE1 B2,"Oct 15, 2025",6:00:01 PM,7:00:00 PM,P,Drone Technology
+310,Software EngineeringT1 BT Cyber,"Oct 16, 2025",11:00:01 AM,12:00:00 PM,P,Software Engineering
+311,AI and ML for CybersecurityT1 - BT Cyber,"Oct 16, 2025",12:00:01 PM,1:00:00 PM,P,AI and ML for Cybersecurity
+312,AI and ML for CybersecurityP1 - BT Cyber,"Oct 16, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+313,AI and ML for CybersecurityP1 - BT Cyber,"Oct 16, 2025",3:00:01 PM,4:00:00 PM,P,AI and ML for Cybersecurity
+314,Introd. to Forensic ScienceT1OE2 BTMT5,"Oct 16, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+315,Introd. to Forensic ScienceT1OE2 BTMT5,"Oct 16, 2025",5:00:01 PM,6:00:00 PM,P,Introduction to Forensic Science
+316,Software EngineeringP1 BT Cyber B2,"Oct 17, 2025",8:00:01 AM,9:00:00 AM,P,Software Engineering
+317,Software EngineeringP1 BT Cyber B2,"Oct 17, 2025",9:00:01 AM,10:00:00 AM,P,Software Engineering
+318,Network SecurityT1 - BT Cyber,"Oct 17, 2025",11:00:01 AM,12:00:00 PM,P,Network Security
+319,Cybersecurity FundamentalsT1 - BT Cyber,"Oct 17, 2025",12:00:01 PM,1:00:00 PM,P,
+320,Network SecurityP1 - BT Cyber B2,"Oct 17, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+321,Network SecurityP1 - BT Cyber B2,"Oct 17, 2025",3:00:01 PM,4:00:00 PM,P,Network Security
+322,Introd. to Forensic ScienceT1OE2 BTMT5,"Oct 17, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+323,Visual AnalyticsP1 - BT Cyber B2,"Oct 27, 2025",2:00:01 PM,3:00:00 PM,P,Visual Analytics
+324,Visual AnalyticsP1 - BT Cyber B2,"Oct 27, 2025",3:00:01 PM,4:00:00 PM,P,Visual Analytics
+325,Drone TechnologyT1-OE1-BTech+MBA,"Oct 27, 2025",4:00:01 PM,5:00:00 PM,P,Drone Technology
+326,Drone TechnologyT1-OE1-BTech+MBA,"Oct 27, 2025",5:00:01 PM,6:00:00 PM,P,Drone Technology
+327,Drone TechnologyT1-OE1-BTech+MBA,"Oct 27, 2025",6:00:01 PM,7:00:00 PM,P,Drone Technology
+328,Cybersecurity FundamentalsP1-BT Cyber B2,"Oct 28, 2025",10:00:01 AM,11:00:00 AM,P,
+329,Cybersecurity FundamentalsP1-BT Cyber B2,"Oct 28, 2025",11:00:01 AM,12:00:00 PM,P,
+330,Software EngineeringT1 BT Cyber,"Oct 28, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+331,AI and ML for CybersecurityT1 - BT Cyber,"Oct 28, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+332,Cybersecurity FundamentalsT1 - BT Cyber,"Oct 28, 2025",3:00:01 PM,4:00:00 PM,P,
+333,Software EngineeringP1 BT Cyber B2,"Oct 29, 2025",12:00:01 PM,1:00:00 PM,P,Software Engineering
+334,Software EngineeringP1 BT Cyber B2,"Oct 29, 2025",1:00:01 PM,2:00:00 PM,P,Software Engineering
+335,Network SecurityT1 - BT Cyber,"Oct 29, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+336,Drone TechnologyP1 - OE1 B2,"Oct 29, 2025",4:00:01 PM,5:00:00 PM,P,Drone Technology
+337,Drone TechnologyP1 - OE1 B2,"Oct 29, 2025",5:00:01 PM,6:00:00 PM,P,Drone Technology
+338,Drone TechnologyP1 - OE1 B2,"Oct 29, 2025",6:00:01 PM,7:00:00 PM,P,Drone Technology
+339,Software EngineeringT1 BT Cyber,"Oct 30, 2025",11:00:01 AM,12:00:00 PM,P,Software Engineering
+340,AI and ML for CybersecurityT1 - BT Cyber,"Oct 30, 2025",12:00:01 PM,1:00:00 PM,P,AI and ML for Cybersecurity
+341,AI and ML for CybersecurityP1 - BT Cyber,"Oct 30, 2025",2:00:01 PM,3:00:00 PM,P,AI and ML for Cybersecurity
+342,AI and ML for CybersecurityP1 - BT Cyber,"Oct 30, 2025",3:00:01 PM,4:00:00 PM,P,AI and ML for Cybersecurity
+343,Introd. to Forensic ScienceT1OE2 BTMT5,"Oct 30, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
+344,Introd. to Forensic ScienceT1OE2 BTMT5,"Oct 30, 2025",5:00:01 PM,6:00:00 PM,P,Introduction to Forensic Science
+345,Network SecurityT1 - BT Cyber,"Oct 31, 2025",11:00:01 AM,12:00:00 PM,P,Network Security
+346,Cybersecurity FundamentalsT1 - BT Cyber,"Oct 31, 2025",12:00:01 PM,1:00:00 PM,P,
+347,Network SecurityP1 - BT Cyber B2,"Oct 31, 2025",2:00:01 PM,3:00:00 PM,P,Network Security
+348,Network SecurityP1 - BT Cyber B2,"Oct 31, 2025",3:00:01 PM,4:00:00 PM,P,Network Security
+349,Introd. to Forensic ScienceT1OE2 BTMT5,"Oct 31, 2025",4:00:01 PM,5:00:00 PM,P,Introduction to Forensic Science
